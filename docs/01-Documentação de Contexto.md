@@ -9,11 +9,13 @@ O objetivo principal da nossa aplicação de roteiro de viagens e gerenciamento 
 
 ## Justificativa
 
-Dados recentes do setor de turismo indicam uma crescente demanda por soluções que facilitem o planejamento e o gerenciamento de viagens, especialmente considerando as diferentes necessidades financeiras dos viajantes. Segundo pesquisas da Organização Mundial do Turismo (UN Tourism Barometerm, 2023), o número de viagens internacionais continua a crescer anualmente no pós pândemia, com uma ampla diversidade de perfis de viajantes, desde aqueles em busca de luxo até os que preferem opções mais econômicas.
+Dados recentes do setor de turismo indicam uma crescente demanda por soluções que facilitem o planejamento e o gerenciamento de viagens, especialmente considerando as diferentes necessidades financeiras dos viajantes.
 
-Além disso, estudos de mercado revelam que uma parcela significativa de viajantes enfrenta desafios ao lidar com os aspectos financeiros das viagens, muitas vezes excedendo seus orçamentos planejados e enfrentando dificuldades para controlar seus gastos durante a jornada.
+Considerando os dados fornecidos pelo Barômetro Mundial do Turismo e pelo boletim da Organização Mundial do Turismo (OMT), é evidente que o setor do turismo está em processo de recuperação após os impactos da pandemia global. A projeção de que o turismo internacional retorne aos níveis pré-pandemia até 2024, com um esperado crescimento de 2% em relação a 2019, indica uma retomada gradual e promissora do setor (UN Tourism Barometer, 2023).
 
-Nesse contexto, nossa aplicação surge como uma solução inovadora e abrangente, oferecendo não apenas funcionalidades de planejamento de viagens personalizadas, mas também recursos de gerenciamento financeiro em tempo real, proporcionando uma experiência integrada e acessível para todos os tipos de viajantes. Ao oferecer uma abordagem inclusiva e colaborativa para o planejamento de viagens, visamos atender a essa demanda crescente e ajudar os viajantes a realizarem seus sonhos de viagem de forma consciente, econômica e satisfatória
+Além disso, os números expressivos apresentados pela OMT, que apontam uma contribuição econômica total do turismo de US$ 3,3 trilhões em 2023, representando aproximadamente 3% do Produto Interno Bruto (PIB) global, ressaltam a importância desse setor para a economia mundial (Turismo global vai retomar nível pré-pandemia em 2024, 2023).
+
+Nesse contexto, esta aplicação surge como uma solução inovadora e abrangente, oferecendo não apenas funcionalidades de planejamento de viagens personalizadas, mas também recursos de gerenciamento financeiro em tempo real, proporcionando uma experiência integrada e acessível para todos os tipos de viajantes. Ao oferecer uma abordagem inclusiva para o planejamento de viagens, visamos atender a essa demanda crescente e ajudar os viajantes a realizarem seus sonhos de viagem de forma consciente, econômica e satisfatória
 
 ## Beneficios
 
