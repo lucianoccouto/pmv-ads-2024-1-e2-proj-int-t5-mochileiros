@@ -1,6 +1,6 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
+ORGANIZAÇÃO MUNDIAL DO TURISMO. Boletim da OMT: UN Tourism Barometer, 2023. Disponível em: https://www.unwto.org/un-tourism-world-tourism-barometer-data. Acesso em: 17/03/2024.
 
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
