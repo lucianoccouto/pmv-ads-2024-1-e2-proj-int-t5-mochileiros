@@ -1,6 +1,6 @@
 # Introdução
 
-Planejar uma viagem pode ser emocionante, mas também pode ser desafiador gerenciar todos os detalhes, especialmente os gastos. Com a nossa aplicação de roteiro de viagens e gerenciamento de gastos, facilitamos para os usuários planejarem suas aventuras e acompanharem seus gastos em tempo real, permitindo que pessoas com diferentes necessidades, orçamentos e rendas possam viajar com tranquilidade. Vamos explorar como nossa aplicação promove uma experiência de viagem inclusiva e acessível, além de facilitar o planejamento para grupos e famílias, possibilitando a realização de sonhos de viagem.
+Planejar uma viagem pode ser emocionante, mas também pode ser desafiador gerenciar todos os detalhes, especialmente os gastos. Com a nossa aplicação de roteiro de viagens e gerenciamento de gastos, facilitamos para os usuários planejarem suas aventuras e acompanharem seus gastos em tempo real, permitindo que pessoas com diferentes necessidades, orçamentos e rendas possam viajar com tranquilidade. Vamos explorar como a aplicação promove uma experiência de viagem inclusiva e acessível, além de facilitar o planejamento para grupos e famílias, possibilitando a realização de sonhos de viagem.
 
 
 ## Objetivos
