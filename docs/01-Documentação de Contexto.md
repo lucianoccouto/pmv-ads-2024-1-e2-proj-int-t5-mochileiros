@@ -5,7 +5,7 @@ Planejar uma viagem pode ser emocionante, mas também pode ser desafiador gerenc
 
 ## Objetivos
 
-O objetivo principal da nossa aplicação de roteiro de viagens e gerenciamento de gastos é facilitar e democratizar o acesso a viagens para pessoas de diferentes perfis financeiros, tornando o planejamento e a execução de viagens uma experiência acessível, inclusiva e emocionante. Buscamos fornecer ferramentas e recursos que permitam aos usuários controlarem seus gastos, planejarem itinerários personalizados e compartilharem experiências de viagem de forma colaborativa, garantindo que todos possam desfrutar de uma jornada memorável sem comprometer sua estabilidade financeira.
+O objetivo principal da nossa aplicação de roteiro de viagens e gerenciamento de gastos é facilitar e democratizar o acesso a viagens para pessoas de diferentes perfis financeiros, tornando o planejamento e a execução de viagens uma experiência acessível, inclusiva e emocionante. Buscamos fornecer ferramentas e recursos que permitam aos usuários controlarem seus gastos, planejarem itinerários personalizados e planejar viagens tanto sozinhos quanto em grupo, garantindo que todos possam desfrutar de uma jornada memorável sem comprometer sua estabilidade financeira.
 
 ## Justificativa
 
