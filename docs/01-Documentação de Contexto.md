@@ -9,9 +9,7 @@ O objetivo principal da nossa aplicação de roteiro de viagens e gerenciamento 
 
 ## Justificativa
 
-Dados recentes do setor de turismo indicam uma crescente demanda por soluções que facilitem o planejamento e o gerenciamento de viagens, especialmente considerando as diferentes necessidades financeiras dos viajantes.
-
-Considerando os dados fornecidos pelo Barômetro Mundial do Turismo e pelo boletim da Organização Mundial do Turismo (OMT), é evidente que o setor do turismo está em processo de recuperação após os impactos da pandemia global. A projeção de que o turismo internacional retorne aos níveis pré-pandemia até 2024, com um esperado crescimento de 2% em relação a 2019, indica uma retomada gradual e promissora do setor (UN Tourism Barometer, 2023).
+Pesquisas recentes do setor de turismo indicam uma retomada no ritimo do turismo global. Considerando os dados fornecidos pelo Barômetro Mundial do Turismo e pelo boletim da Organização Mundial do Turismo (OMT), é evidente que o setor do turismo está em processo de recuperação após os impactos da pandemia global. A projeção de que o turismo internacional retorne aos níveis pré-pandemia até 2024, com um esperado crescimento de 2% em relação a 2019, indica uma retomada gradual e promissora do setor (UN Tourism Barometer, 2023).
 
 Além disso, os números expressivos apresentados pela OMT, que apontam uma contribuição econômica total do turismo de US$ 3,3 trilhões em 2023, representando aproximadamente 3% do Produto Interno Bruto (PIB) global, ressaltam a importância desse setor para a economia mundial (Turismo global vai retomar nível pré-pandemia em 2024, 2023).
 
