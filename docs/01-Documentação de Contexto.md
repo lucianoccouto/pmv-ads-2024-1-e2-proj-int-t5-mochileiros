@@ -9,7 +9,7 @@ O objetivo principal da nossa aplicação de roteiro de viagens e gerenciamento 
 
 ## Justificativa
 
-Dados recentes do setor de turismo indicam uma crescente demanda por soluções que facilitem o planejamento e o gerenciamento de viagens, especialmente considerando as diferentes necessidades financeiras dos viajantes. Segundo pesquisas da Organização Mundial do Turismo, o número de viagens internacionais continua a crescer anualmente, com uma ampla diversidade de perfis de viajantes, desde aqueles em busca de luxo até os que preferem opções mais econômicas.
+Dados recentes do setor de turismo indicam uma crescente demanda por soluções que facilitem o planejamento e o gerenciamento de viagens, especialmente considerando as diferentes necessidades financeiras dos viajantes. Segundo pesquisas da Organização Mundial do Turismo (UN Tourism Barometerm, 2023), o número de viagens internacionais continua a crescer anualmente no pós pândemia, com uma ampla diversidade de perfis de viajantes, desde aqueles em busca de luxo até os que preferem opções mais econômicas.
 
 Além disso, estudos de mercado revelam que uma parcela significativa de viajantes enfrenta desafios ao lidar com os aspectos financeiros das viagens, muitas vezes excedendo seus orçamentos planejados e enfrentando dificuldades para controlar seus gastos durante a jornada.
 
